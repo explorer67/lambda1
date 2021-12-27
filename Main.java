@@ -1,4 +1,4 @@
-package homework_lambda1;
+//package homework_lambda1;
 
 public class Main {
 
