@@ -22,3 +22,18 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# dir tmp
+tmp/
+
+# Thumbs.db
+Thumbs.db
+
+# .DS_Store
+*.DS_Store
+
+# _old
+*_old
+
+# _backup
+*_backup
